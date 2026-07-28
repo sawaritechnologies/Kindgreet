@@ -1,0 +1,6 @@
+{
+  "name": "KindGrid - Social Help Network",
+  "description": "An altruistic social help network with direct requests (volunteer, paid, barter), private chat rooms with live media/location, kindness reels, and social ratings.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
